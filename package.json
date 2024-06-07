@@ -1,0 +1,12 @@
+{
+  "name": "mern_ecom",
+  "version": "1.0.0",
+  "description": "First create back-end apis and connect with front-end react",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ecommerce", "mern stack"],
+  "author": "",
+  "license": "ISC"
+}
